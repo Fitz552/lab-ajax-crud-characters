@@ -54,6 +54,10 @@ button {
   background-color: #42f471;
 }
 
+.error {
+  background-color: red;
+}
+
 .operations {
   margin: 0 auto;
   padding: 5px;
@@ -71,6 +75,7 @@ button {
   text-align: left;
   border: solid white 2px;
   border-radius: 20px;
+
 }
 
 .character-info div span {
